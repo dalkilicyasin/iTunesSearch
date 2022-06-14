@@ -24,7 +24,6 @@ class SearchListCollectionViewCell: UICollectionViewCell {
         super.awakeFromNib()
         // Initialization code
         self.viewTopView.layer.cornerRadius = 10
-    
     }
 
 }
